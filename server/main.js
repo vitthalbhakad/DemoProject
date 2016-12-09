@@ -4,3 +4,7 @@ hander(event)
 {
   event.preventDefault();
 }
+secondFunction()
+{
+  hits add by me
+}
