@@ -8,3 +8,11 @@ secondFunction()
 {
   hits add by me
 }
+hander2(event)
+{
+  event.preventDefault();
+}
+secondFunction2()
+{
+  hits add by me
+}
