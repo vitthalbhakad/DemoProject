@@ -17,7 +17,7 @@ secondFunction2()
   hits add by me
 }
 
-pradipDemo()
+vitthalDemo()
 {
   sdfjkklsdf
   sdfsdf
