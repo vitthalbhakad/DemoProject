@@ -9,11 +9,3 @@ function pankaj{
   ds
 }
 
-
-
-
-
-function vitthal{
-  sdfsdfsdfsdfsd
-  ds
-}
