@@ -1,15 +1,15 @@
 //this code run automatically at client side
 //sdfsdfsdf
-function vitthal{
+function vitthfgdfgal{
   sdfsdfsdfsdfsd
   ds
 }
-function pankaj{
+function pasdfsdfnkaj{
   sdfsdfsdfsdfsd
   ds
 }
 
-function vitthal{
+function vittdfgdsdfsdfhal{
   sdfsdfsdfsdfsd
   ds
 }

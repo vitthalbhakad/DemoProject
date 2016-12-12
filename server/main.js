@@ -4,20 +4,20 @@ hander(event)
 {
   event.preventDefault();
 }
-secondFunction()
+secondFudfgdfnction()
 {
   hits add by me
 }
-hander2(event)
+handdfgdfer2(event)
 {
   event.preventDefault();
 }
-secondFunction2()
+secondFuncdfgdftion2()
 {
   hits add by me
 }
 
-vitthalDemo()
+vitthalDesdfsdfsfdgdfmo()
 {
   sdfjkklsdf
   sdfsdf
