@@ -8,16 +8,16 @@ secondFudfgdfnction()
 {
   hits add by me
 }
-handdfgdfer2(event)
+handdfgdfgdfgdfer2(event)
 {
   event.preventDefault();
 }
-secondFuncdfgdftion2()
+secondFuncdfgdfdfgdfgtion2()
 {
   hits add by me
 }
 
-vitthalDesdfsdfsfdgdfmo()
+vitthalDesdfsdfsgfdfgdfgfdgdfmo()
 {
   sdfjkklsdf
   sdfsdf
