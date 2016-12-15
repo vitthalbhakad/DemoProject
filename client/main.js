@@ -1,15 +1,19 @@
 //this code run automatically at client side
-//sdfsdfsdf
-function vitthfgdfgal{
-  sdfsdfsdfsdfsd
-  ds
-}
-function pasdfsdfnkaj{
-  sdfsdfsdfsdfsdxcvxc
-  ds
-}
+import React,{Component} from 'react';
+import ReactDOM from 'react-dom';
+import Game from './components/Game';
 
-function vittdfgdsdfsdfhal{
-  sdfsdfsdfsdfsd
-  ds
-}
+class App extends Component{
+  render(){
+    return(
+      //<Game />
+      <div>
+      Hello form main.js
+      </div>
+    );
+  }
+};
+
+Meteor.startup(()=>{
+  ReactDOM.render(<App/>,document.querySelector('.container'));
+});
